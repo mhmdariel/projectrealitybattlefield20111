@@ -1,0 +1,6 @@
+automaticallygenerateallkeygens
+automaticallygenerateallkeys
+automaticallypluginallkeysintoalllocksopeningalldoors
+auutomaticallywinwar20111
+this.self.autodeploy(this.self)
+this.self.autovirallypropagate.as(this.self)
